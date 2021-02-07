@@ -6,10 +6,10 @@ Using a Jupyter Notebook and the Pandas library, I have analyzed the reviews in 
 
 ## Results
 #### Vine reviews DataFrame
-![vine_reviews](https://github.com/luke-c-newell/MechaCar_Statistical_Analysis/blob/main/images/vine_reviews.png "vine_reviews.png")
+![vine_reviews](https://github.com/luke-c-newell/Amazon_Vine_Analysis/blob/main/images/vine_reviews.png "vine_reviews.png")
 
 #### Non-Vine reviews DataFrame
-![non_vine_reviews](https://github.com/luke-c-newell/MechaCar_Statistical_Analysis/blob/main/images/non_vine_reviews.png "non_vine_reviews.png")
+![non_vine_reviews](https://github.com/luke-c-newell/Amazon_Vine_Analysis/blob/main/images/non_vine_reviews.png "non_vine_reviews.png")
 
 ### How many Vine reviews and non-Vine reviews were there?
 - Vine reviews - 386
